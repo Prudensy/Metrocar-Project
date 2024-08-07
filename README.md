@@ -1,7 +1,5 @@
 # metrocar-project
 
-I performed a comprehensive analysis of the customer funnel to address key business questions and deliver actionable insights. This involved data exploration, cleaning and manipulation, pinpointing areas for improvement within the funnel, assessing platform performance, evaluating age group dynamics, and exploring potential surge pricing strategies. The findings were delivered through a presentation,  enhanced by dynamic visualizations. 
-
 **Project Background:**
 
 This project focuses on analyzing Metrocar's customer funnel to identify areas for improvement and optimization. Metrocar, a ride-sharing app similar to Uber and Lyft, connects riders with drivers through a user-friendly mobile platform. By examining various stages of the customer journey, we aim to provide actionable insights and recommendations to enhance the overall user experience and increase conversion rates.
