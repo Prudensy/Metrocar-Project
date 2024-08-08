@@ -24,4 +24,6 @@ Collect and explore data using SQL to ensure counts decrease through each funnel
 - If we adopt a surge pricing strategy, what does the distribution of ride requests look like throughout the day?
 - Which part of our funnel has the lowest conversion rate, and how can we improve it?
 
-Tools: Python (Numpy, Pandas, Plotly, Dash), Google Colab, and SQL (Postgresql)
+Tools: Python (Numpy, Pandas, Plotly, Dash), Google Colab, and SQL (Postgresql).
+
+This project is a team effort consisting of 4 people (Jul 22 - Aug 2, 2024).
